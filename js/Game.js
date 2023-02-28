@@ -8,9 +8,14 @@ class Game {
     });
   }
 // update:
+  //ATIVIIDADE ALUNO:
+  // qual a forma correta de declarar um novo jogador em POO
 
   start() {
-    player = new Player();
+//     player = new Player();
+    //      new Player();
+    //     player = Player();
+    //     player = new Player;
     playerCount = player.getCount();
 
     form = new Form();
